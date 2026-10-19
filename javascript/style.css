@@ -1,0 +1,12 @@
+.herosection{
+    background-image: url(./images/hero-banner.jpg);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.card:hover{
+    box-shadow: 10px 10px 10px rgba(130, 116, 116, 0.463);
+    translate: 0 -2px;
+}
