@@ -1,0 +1,2 @@
+project-4-object url(https://drive.google.com/file/d/1CvGKu1fsQMS-9Hei5h4hwgXepRVP7eo5/view?usp=sharing)
+In this project, I explored how to display multiple product cards dynamically using JavaScript. I created an array of objects to manage product details and used the forEach() loop to iterate through the data and insert product cards into the HTML page. Through this task, I improved my understanding of arrays, objects, DOM manipulation, and creating dynamic webpage content with less manual coding
